@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hea {
+  background-color: aqua;
+  border-bottom: 2px solid;
+  text-align: center;
+}
+.hea h1 {
+  background-color: rgba(50, 70, 120, 0.5);
+  color: rgb(149, 109, 192);
+  margin: 30px 20px;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+  border-radius: 250px;
+}/*# sourceMappingURL=stely.css.map */
